@@ -1,0 +1,15 @@
+# Databricks / Notebooks
+.ipynb_checkpoints/
+*.dbc
+
+# Azure / Configs / Secrets
+config/secrets.json
+*.azure*
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary / local data
+data/tmp/
