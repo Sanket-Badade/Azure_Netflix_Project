@@ -1,0 +1,9 @@
+{
+	"name": "myNetflxAdf1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7d9985fc-0073-4cff-8588-ba4871cea3e4",
+		"tenantId": "bc2d9541-197e-4ba1-9bb6-791a1fa94d8b"
+	}
+}
