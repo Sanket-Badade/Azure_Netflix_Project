@@ -9,6 +9,8 @@
 │   Data Source        │ →   │     Ingestion        │ →   │     Bronze Layer     │ →   │     Silver Layer     │ →   │      Gold Layer      │ →   |  Power BI  | 
 │ (Netflix CSV/JSON)   │     │ (Databricks / ADF)   │     │   Raw Data (ADLS)    │     │ Cleaned Data(PySpark)│     │  Aggregated Data     │     |            |
 
+<img width="882" height="404" alt="architecture" src="https://github.com/user-attachments/assets/2d894858-ec88-43c6-bb41-bd6a863ecc1b" />
+
 
 ## Tech Stack
 
