@@ -6,10 +6,8 @@
 
 ## Architecture
    
-┌──────────────────────┐     ┌──────────────────────┐     ┌──────────────────────┐     ┌──────────────────────┐     ┌──────────────────────┐
-│   Data Source        │ →   │     Ingestion        │ →   │     Bronze Layer     │ →   │     Silver Layer     │ →   │      Gold Layer      │ →     Power BI   
-│ (Netflix CSV/JSON)   │     │ (Databricks / ADF)   │     │   Raw Data (ADLS)    │     │ Cleaned Data(PySpark)│     │  Aggregated Data     │       
-└──────────────────────┘     └──────────────────────┘     └──────────────────────┘     └──────────────────────┘     └──────────────────────┘   
+│   Data Source        │ →   │     Ingestion        │ →   │     Bronze Layer     │ →   │     Silver Layer     │ →   │      Gold Layer      │ →   |  Power BI  | 
+│ (Netflix CSV/JSON)   │     │ (Databricks / ADF)   │     │   Raw Data (ADLS)    │     │ Cleaned Data(PySpark)│     │  Aggregated Data     │     |            |
 
 
 ## Tech Stack
@@ -30,3 +28,5 @@
 
 
 🚀 This project is built for learning and demonstrating data engineering concepts using a real-world dataset.
+
+
