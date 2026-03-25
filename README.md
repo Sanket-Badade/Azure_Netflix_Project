@@ -5,10 +5,9 @@
 
 
 ## Architecture
+
+<img width="1502" height="688" alt="IMG_20260325_101754" src="https://github.com/user-attachments/assets/0d9ca795-d901-4c23-96f0-5f0880774a47" />
    
-
-<img width="882" height="404" alt="architecture" src="https://github.com/user-attachments/assets/2d894858-ec88-43c6-bb41-bd6a863ecc1b" />
-
 
 ## Tech Stack
 
@@ -27,6 +26,5 @@
 5. Visualize data using Power BI
 
 
-🚀 This project is built for learning and demonstrating data engineering concepts using a real-world dataset.
-
+⭐ This project is built for learning and demonstrating data engineering concepts using a real-world dataset.
 
